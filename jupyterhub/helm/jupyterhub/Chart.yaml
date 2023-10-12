@@ -9,7 +9,7 @@ maintainers:
     email: samuel.gordalina@gmail.com
 dependencies:
   - name: jupyterhub
-    version: 2.0.0
+    version: 3.1.0
     repository: https://jupyterhub.github.io/helm-chart/
   - name: config-overlays
     version: 0.1.1

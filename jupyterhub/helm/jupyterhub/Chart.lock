@@ -1,12 +1,12 @@
 dependencies:
 - name: jupyterhub
   repository: https://jupyterhub.github.io/helm-chart/
-  version: 2.0.0
+  version: 3.1.0
 - name: config-overlays
   repository: https://pluralsh.github.io/module-library
   version: 0.1.1
 - name: postgres
   repository: https://pluralsh.github.io/module-library
   version: 0.1.16
-digest: sha256:3007eacc8f4aa77fc6904205607dd9a1f87c6aaab5fa2460543c1011d284b9fd
-generated: "2023-08-01T16:40:45.850859-04:00"
+digest: sha256:8d42c4a3ad4c80f05d754f99ba473d592896f67d4c995c74a02982fa27f17786
+generated: "2023-10-12T14:40:44.224219585-07:00"
